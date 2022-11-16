@@ -1,6 +1,6 @@
 # text_to_audio
 
-#Importing gTTs for converting the text entered, into audio which can be saved as a mp3 file
+#Importing gTTs for converting the text entered, into audio which can be saved as a mp3 file.
 from gtts import gTTS
 
 #open the text file to convert to an audio file
